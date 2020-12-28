@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 615501dbe4f3fe94fbf4b564abb10237, type: 3}
+  m_Name: ModConfig
+  m_EditorClassIdentifier: 
+  id: GSXenocryst
+  title: The Xenocryst
+  author: GhostSalt
+  description: "I was gonna ask how the central cube can be interacted with, but considering
+    that\r it's in a black hole, I don't think I want to.\n\nA collab between me and
+    Obvious#5283 on Discord, where he wrote the manual and I made the module (with
+    a bit of his help). If I'm honest, it turned out better than I was hoping it to.\n\n[Twitch
+    Plays message here]"
+  version: 1.0
+  outputFolder: build
+  previewImage: {fileID: 2800000, guid: 79ff7a98842901b44a7aedd5e1ec8a0b, type: 3}
